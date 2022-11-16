@@ -2,9 +2,9 @@
   "name": "telethon",
   "displayName": "telethon-vscode",
   "description": "Snippets for telegram bot development using telethon library in python.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^0.11.x"
   },
   "categories": [
     "Snippets"
