@@ -1,6 +1,7 @@
 # TelethonSnippets
 
 VSCode extension to make coding telegram bots in telethon much easier.
+View this extension on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=xditya.telethon).
 
 ## Available Snippets
 - `tgbot` - Generate a boilerplate for a telegram *bot* in Telethon.
