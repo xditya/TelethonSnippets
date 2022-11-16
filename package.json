@@ -1,0 +1,35 @@
+{
+  "name": "telethon",
+  "displayName": "telethon-vscode",
+  "description": "Snippets for telegram bot development using telethon library in python.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "publisher": "xditya",
+  "bugs": {
+    "url": "https://github.com/xditya/TelethonSnippets/issues"
+  },
+  "homepage": "https://github.com/xditya/TelethonSnippets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xditya/TelethonSnippets/"
+  },
+  "license": "MIT",
+  "icon": "telethon_logo.png",
+  "keywords": [
+    "telethon",
+    "telegram"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/telethon.code-snippets"
+      }
+    ]
+  }
+}
